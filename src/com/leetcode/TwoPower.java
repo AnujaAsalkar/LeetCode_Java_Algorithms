@@ -1,7 +1,8 @@
 package com.leetcode;
 
 
-/*
+/* 
+ * Problem Statement: Determine whether a given integer is power of two or not
  * Hint: 
  * 1. Any integer which is power of 2 conatins only one '1' in binary form
  * using this to solve the problem 
