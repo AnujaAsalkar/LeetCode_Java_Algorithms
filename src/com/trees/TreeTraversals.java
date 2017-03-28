@@ -25,7 +25,6 @@ public class TreeTraversals {
 		if(root==null)
 			return; 
 		BinaryTreeNode currentNode=root;
-		boolean done=false;
 		while(true){
 			if(currentNode!=null){
 				stack.push(currentNode);
