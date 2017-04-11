@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.miscellaneos;
 /*
  * Problem Statement: Search for an integer in a sorted array which is rotated at some point unknown beforehand
  * (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).

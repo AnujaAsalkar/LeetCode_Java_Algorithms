@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.miscellaneos;
 
 /*
  * Problem Statement: Decode an encoded string

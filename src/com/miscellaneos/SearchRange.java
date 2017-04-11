@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.miscellaneos;
 
 /*
  * Problem Statement: In a ascending sorted integer array(array contains repeated integers)

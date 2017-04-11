@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.miscellaneos;
 
 /*
  * Problem Statement: Given an array of n integers find the unique quadruplets in array 

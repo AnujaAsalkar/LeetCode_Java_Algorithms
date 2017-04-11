@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.miscellaneos;
 
 /*
  * Problem Statement: For a given matrix m*n, if an element is 0, 
