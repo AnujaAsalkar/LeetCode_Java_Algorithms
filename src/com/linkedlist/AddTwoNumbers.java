@@ -115,6 +115,7 @@ public class AddTwoNumbers {
 		 ListNode node2= new ListNode(6);
 		 node1.next=node2;
 		 ListNode head2=new ListNode(0);
+		 ListNode head3=addNumbers(head1,head2);
 		 ListNode current=head3;
 		 while(current!=null){
 			 System.out.print(current.val);
